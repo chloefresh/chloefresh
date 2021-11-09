@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chloefresh
 - 👀 I’m interested in nlp, KG and AI+health
-- 🌱 I’m currently a MS student in Institute of Automation, Chinese Academy of Sciences.
+- 🌱 I’m currently a MS student in the Social Computing and Big Data programs at the Institute of Automation, Chinese Academy of Sciences.
 - 💞️ I’m looking to collaborate on nlp, especially applications in health domain.
 - 📫 Please email me yangyunrong2019@ia.ac.cn 
 
